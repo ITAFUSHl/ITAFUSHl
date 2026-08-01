@@ -11,7 +11,9 @@
 
 <img src="https://i.postimg.cc/SNzJkFR6/Untitled1644-20260801160519.png" width=50>‎ ‎ ${\textsf{\color{#A3AE9D} 🆁icari}}$‎ ‎ ${\textsf{\color{#4D77BF} 𝐀ngel}}$
      <br>
-     ‎ bllk ㅤ ㅤpersona‎ ‎ ‎ ‎ e
+     ‎ afro-latino ㅤ 16‎ ‎ ‎ ‎ 
+     <br>
+     I II III
     </td>
   </tr>
 
