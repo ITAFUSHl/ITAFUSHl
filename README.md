@@ -1,16 +1,16 @@
 <div align="center">
-<img src="https://i.postimg.cc/L55NTp2X/IMG-9235-(1).gif" width = "50"> <img src="https://hits.sh/github.com/rinsagi.svg?label=shuakelings&extraCount=4670&color=222275&labelColor=20053C">
+<img src="https://i.postimg.cc/L55NTp2X/IMG-9235-(1).gif" width = "333"> <img src="https://hits.sh/github.com/rinsagi.svg?label=shuakelings&extraCount=4670&color=222275&labelColor=20053C">
   <br>
 <br> 
 <table>
   <tr>
     <td rowspan="3" align="center">
-      <img src="https://i.postimg.cc/KYmhx1m2/Untitled1640-20260801002340.png" width="150">
+      <img src="https://i.postimg.cc/KYmhx1m2/Untitled1640-20260801002340.png" width="250">
     </td>
     <td>
  Ricari‎ ‎ Mike‎ ‎ Angel
       <br>
-     ‎ bllk ㅤ persona‎ ‎ ‎ ‎e
+     ‎ bllk ㅤ ㅤpersona‎ ‎ ‎ ‎ e
     </td>
   </tr>
 
