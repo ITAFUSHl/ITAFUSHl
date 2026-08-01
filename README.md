@@ -8,8 +8,9 @@
       <img src="https://i.postimg.cc/KYmhx1m2/Untitled1640-20260801002340.png" width="250">
     </td>
     <td>
-<img src="https://i.postimg.cc/SNzJkFR6/Untitled1644-20260801160519.png" width=50>‎ ‎ 🆁icari‎ ‎ 𝐀ngel
-      <br>
+
+<img src="https://i.postimg.cc/SNzJkFR6/Untitled1644-20260801160519.png" width=50>‎ ‎ ${\textsf{\color{#A3AE9D} 🆁icari}}$‎ ‎ ${\textsf{\color{#4D77BF} 𝐀ngel}}$
+     <br>
      ‎ bllk ㅤ ㅤpersona‎ ‎ ‎ ‎ e
     </td>
   </tr>
