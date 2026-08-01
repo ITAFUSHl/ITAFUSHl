@@ -26,9 +26,10 @@
 <summary>i o my friends</summary>
 vee jaden zac ryomijo<br>
 ashtonmijp valenmijo<br> 
-arsènemijo +++ more ofc !!<br> 
-< salmonroe, okngsgc, pgc 3
-
+arsènemijo + more ofc!! <br> 
+< salmonroe, okngsgc, <br> 
+pgcs, prsgc, fmgc 3 
+  
 </details>
     </td>
   </tr>
