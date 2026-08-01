@@ -5,10 +5,10 @@
 <table>
   <tr>
     <td rowspan="3" align="center">
-      <img src="https://i.postimg.cc/SNzJkFR6/Untitled1644-20260801160519.png" width="250">
+      <img src="https://i.postimg.cc/KYmhx1m2/Untitled1640-20260801002340.png" width="250">
     </td>
     <td>
-<img src="https://i.postimg.cc/gjF1hZyN/Untitled1644-20260801160230.png" width=50>
+<img src="https://i.postimg.cc/SNzJkFR6/Untitled1644-20260801160519.png" width=50>
       <br>
      ‎ bllk ㅤ ㅤpersona‎ ‎ ‎ ‎ e
     </td>
