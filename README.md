@@ -39,6 +39,11 @@ ask 2 b here dont be shy:3
   </tr>
 </table>
 <br>
+
+<a href="https://milkshuake.straw.page/">
+  <img src="https://i.postimg.cc/TPcJYXKz/Untitled1643-20260801145218.png" width="50"">
+</a>
+
   <a href= "  https://milkshuake.straw.page/ ">
 <img src="https://i.postimg.cc/TPcJYXKz/Untitled1643-20260801145218.png" width="50">
   </a>
