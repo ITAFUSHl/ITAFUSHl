@@ -8,7 +8,7 @@
       <img src="https://i.postimg.cc/KYmhx1m2/Untitled1640-20260801002340.png" width="250">
     </td>
     <td>
-<img src="https://i.postimg.cc/SNzJkFR6/Untitled1644-20260801160519.png" width=50>
+<img src="https://i.postimg.cc/SNzJkFR6/Untitled1644-20260801160519.png" width=50>‎ ‎ 🆁icari‎ ‎ 𝐀ngel
       <br>
      ‎ bllk ㅤ ㅤpersona‎ ‎ ‎ ‎ e
     </td>
