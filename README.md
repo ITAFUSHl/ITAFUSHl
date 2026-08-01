@@ -17,12 +17,13 @@
     </td>
   </tr>
 
-  <tr>
-    <td>
-      <br> 
-      <img src="https://i.postimg.cc/2j2bj7CK/2C9348B6-3438-4C95-9758-38F0BEF14C8F-(1).gif" width="170"><br> 
-          </td>
-  </tr>
+<tr>
+  <td align="center" valign="middle">
+    <br>
+    <img src="https://i.postimg.cc/2j2bj7CK/2C9348B6-3438-4C95-9758-38F0BEF14C8F-(1).gif" width="130">
+    <br>
+  </td>
+</tr>
 
   <tr>
     <td>
