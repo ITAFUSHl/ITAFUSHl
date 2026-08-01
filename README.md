@@ -39,10 +39,19 @@ ask 2 b here dont be shy:3
   </tr>
 </table>
 <br>
+  <a href= "  https://milkshuake.straw.page/ ">
 <img src="https://i.postimg.cc/TPcJYXKz/Untitled1643-20260801145218.png" width="50">
+  </a>
+    <a href= " https://rentry.co/re-do ">
 <img src="https://i.postimg.cc/q7GxMdNS/Untitled1643-20260801145216.png" width="50">
+  </a>
+  
+  <a href= " https://yuji.atabook.org/ ">
 <img src="https://i.postimg.cc/ZqLxKhW1/Untitled1643-20260801145213.png" width="50">
+  </a>
+  
+  <a href= " https://rentry.co/pxg ">
 <img src="https://i.postimg.cc/s2J4DRMb/Untitled1643-20260801145202.png" width="50">
-
+  </a>
 
 
