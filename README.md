@@ -24,13 +24,14 @@
     <td>
       <details>
 <summary>i o my friends</summary>
-vee jaden zac void<br>
+vee jaden zac void blaire<br>
 ryomijo ashtonmijp<br>
 valenmijo arsènemijo<br>
 moots ++++ more ofc!! <br> 
 < salmonroe, okngsgc, <br> 
-‎ ‎pgcs, prsgc, fmgc 3 
-  
+‎ ‎pgcs, prsgc, fmgc 3 ‎<br>
+no specific order <br>
+ask 2 b here dont be shy:3 
 </details>
     </td>
   </tr>
