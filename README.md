@@ -75,7 +75,7 @@ ask 2 b here dont be shy:3
 
   <tr>
 <td align="center" valign="middle">
-      <img src="https://i.postimg.cc/fT5nqsGC/Untitled1636-20260731210332.png" width="150">
+      <img src="https://i.postimg.cc/fT5nqsGC/Untitled1636-20260731210332.png" width="145">
     </td>
   </tr>
 </table>
