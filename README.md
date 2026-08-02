@@ -69,7 +69,7 @@ ask 2 b here dont be shy:3
       <img src="https://i.postimg.cc/j2F6CLWJ/Untitled1648-Restored3-20260801234217-rotated.png" width="100">
     </td>
     <td rowspan="2" align="center">
-      <img src="https://i.postimg.cc/hjwRr16M/Untitled1648-Restored3-20260801232841.png" width="261">
+      <img src="https://i.postimg.cc/hjwRr16M/Untitled1648-Restored3-20260801232841.png" width="255">
     </td>
   </tr>
 
