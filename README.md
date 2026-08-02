@@ -65,7 +65,7 @@ ask 2 b here dont be shy:3
 
 <table>
   <tr>
-    <td>
+<td align="center" valign="middle">
       <img src="https://i.postimg.cc/j2F6CLWJ/Untitled1648-Restored3-20260801234217-rotated.png" width="100">
     </td>
     <td rowspan="2" align="center">
@@ -74,8 +74,8 @@ ask 2 b here dont be shy:3
   </tr>
 
   <tr>
-    <td>
-      <img src="https://i.postimg.cc/fT5nqsGC/Untitled1636-20260731210332.png" width="150">
+<td align="center" valign="middle">
+      <img src="https://i.postimg.cc/fT5nqsGC/Untitled1636-20260731210332.png" width="152">
     </td>
   </tr>
 </table>
