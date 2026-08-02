@@ -59,3 +59,5 @@ ask 2 b here dont be shy:3
   <img src="https://i.postimg.cc/s2J4DRMb/Untitled1643-20260801145202.png" width="51"">
 </a>‎
   ‎  ‎  ‎  ‎  ‎ <img src="https://i.postimg.cc/gcnsWjWJ/IMG-9317.gif" width="191" height="65">
+<br>
+<img src="https://i.postimg.cc/hjwRr16M/Untitled1648-Restored3-20260801232841.png" height="450">
