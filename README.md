@@ -60,4 +60,22 @@ ask 2 b here dont be shy:3
 </a>‎
   ‎  ‎  ‎  ‎  ‎ <img src="https://i.postimg.cc/gcnsWjWJ/IMG-9317.gif" width="191" height="65">
 <br>
-<img src="https://i.postimg.cc/hjwRr16M/Untitled1648-Restored3-20260801232841.png" height="450">
+<br>
+<br>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://i.postimg.cc/j2F6CLWJ/Untitled1648-Restored3-20260801234217-rotated.png" width="100">
+    </td>
+    <td rowspan="2" align="center">
+      <img src="https://i.postimg.cc/hjwRr16M/Untitled1648-Restored3-20260801232841.png" width="265">
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://i.postimg.cc/fT5nqsGC/Untitled1636-20260731210332.png" width="150">
+    </td>
+  </tr>
+</table>
